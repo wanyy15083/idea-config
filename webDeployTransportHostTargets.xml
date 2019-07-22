@@ -1,0 +1,78 @@
+<application>
+  <component name="WebDeploymentTransportHostTargets">
+    <option name="stateHostTargets">
+      <list>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="1921a3ca-a081-44a5-a729-dd8e96c87e4a" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="04ec36cd-caed-4540-ad81-16277ba965f1" />
+              <id>04ec36cd-caed-4540-ad81-16277ba965f1</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/home/wduser/tomcat-o2m-web" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="1921a3ca-a081-44a5-a729-dd8e96c87e4a" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="7652198f-8295-4a5b-8556-2c1111a24fa4" />
+              <id>7652198f-8295-4a5b-8556-2c1111a24fa4</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/home/wduser/tomcat-o2m-web" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="29c034c7-0b18-4dff-b7cd-23c74144f288" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="7652198f-8295-4a5b-8556-2c1111a24fa4" />
+              <id>7652198f-8295-4a5b-8556-2c1111a24fa4</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/root/apache-tomcat-7.0.63/webapps/test" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="29c034c7-0b18-4dff-b7cd-23c74144f288" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="35a996b5-c79d-478c-9a7c-f166ce6afb54" />
+              <id>35a996b5-c79d-478c-9a7c-f166ce6afb54</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="e1f3fcba-19b2-4d16-829c-858455a8f085" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="c11fb779-2a9e-4c3c-9f56-c71f4b6080ab" />
+              <id>c11fb779-2a9e-4c3c-9f56-c71f4b6080ab</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="e1f3fcba-19b2-4d16-829c-858455a8f085" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="188fe52a-02e3-4f19-a515-96f6201cb988" />
+              <id>188fe52a-02e3-4f19-a515-96f6201cb988</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/o2m_war/o2m-login-http/o2m-login-http" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="e1f3fcba-19b2-4d16-829c-858455a8f085" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="5264d074-c75b-47a4-9929-5d1b4965f173" />
+              <id>5264d074-c75b-47a4-9929-5d1b4965f173</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/o2m_war/o2m-login-http/o2m-login-http" />
+        </WebDeploymentTransportHostTarget>
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,21 @@
+<application>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value version="173">
+        <option name="USE_SINGLE_CLASS_IMPORTS" value="false" />
+        <JavaCodeStyleSettings>
+          <option name="USE_SINGLE_CLASS_IMPORTS" value="false" />
+          <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+          <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+        </JavaCodeStyleSettings>
+        <XML>
+          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+        </XML>
+        <codeStyleSettings language="JAVA">
+          <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+        </codeStyleSettings>
+      </value>
+    </option>
+    <option name="USE_PER_PROJECT_SETTINGS" value="true" />
+  </component>
+</application>

@@ -1,0 +1,145 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="LuaApplicationSettings">
+    <option name="INTERPRETERS">
+      <list>
+        <LuaInterpreter>
+          <option name="version" value="5.3.0" />
+          <option name="isDefault" value="true" />
+          <option name="name" value="Lua (System)" />
+          <option name="path" value="/usr/local/bin/lua" />
+        </LuaInterpreter>
+      </list>
+    </option>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6320755" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6807611" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="MySQL" />
+    <property name="Darcula.savedEditorTheme" value="Darcula copy" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="false" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.22271715" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="INSPECTION_FILTER_HISTORY" value="" />
+    <property name="JUnit.Splitter.Proportion" value="0.15196079" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="LAST_INJECTED_LANGUAGE" value="JSON" />
+    <property name="LiveContextsPanel[0]" value="0.11080332" />
+    <property name="MavenHelper.lastRadioButton" value="list" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="gson&#10;go&#10;markdo&#10;alibab&#10;find" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="SearchEveryWhereHistory" value="2019&#10;en&#10;;&#10;receiveRouteResult&#10;JIAN" />
+    <property name="SettingsSearchHistory" value="sync" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SpringBeansModulesPanel[0]" value="0.108873166" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="Vcs.Log.Text.Filter.History" value="203c0b7&#10;b565ff7f99c798ca854d6c4e2ffb952708f97d0c&#10;yqh&#10;XLCG&#10;xiao" />
+    <property name="android-component-compatibility-check" value="1563363509727" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.splitter" value="0.7288136" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="eclipse.project.dir" value="$USER_HOME$/Git/other/tio/tio-showcase" />
+    <property name="evlsprt3.173" value="12" />
+    <property name="evlsprt3.183" value="17" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Software/apache-maven-3.6.1/conf/settings.xml&#10;/home/bj-s2-w1631/Software/apache-maven-3.6.1&#10;/home/bj-s2-w1631/Software/gradle-2.10&#10;/home/bj-s2-w1631/Git/incubator-dubbo-samples&#10;/home/bj-s2-w1631/Git/incubator-dubbo-spring-boot-project&#10;/home/bj-s2-w1631/Git/other/incubator-dubbo&#10;/home/bj-s2-w1631/Git/cheetah&#10;/home/bj-s2-w1631/Software/gradle-5.0&#10;/home/bj-s2-w1631/Git/seal/build.gradle&#10;/home/bj-s2-w1631/Git/other/webmagic&#10;/home/bj-s2-w1631/Git/other/mapdb&#10;/home/bj-s2-w1631/Git/other/http-request&#10;/home/bj-s2-w1631/Git/other/craft-atom&#10;/home/bj-s2-w1631/Git/other/datastructure&#10;/home/bj-s2-w1631/Git/other/NettyRPC&#10;/home/bj-s2-w1631/Git/other&#10;/home/bj-s2-w1631/Git/other/Sentinel&#10;/home/bj-s2-w1631/Git/hutool&#10;/home/bj-s2-w1631/Git/dolphin&#10;/home/bj-s2-w1631/Git/go-test&#10;/home/bj-s2-w1631/Git/seal&#10;/usr/lib/jdk/jdk1.8/bin/jvisualvm&#10;/home/bj-s2-w1631/Software/sub_project&#10;/usr/local/bin&#10;/usr/lib/jdk/jdk-11&#10;/home/bj-s2-w1631/Git/blade&#10;/home/bj-s2-w1631/Git/spring-boot&#10;/home/bj-s2-w1631/Git/es&#10;/home/bj-s2-w1631/Software/gradle-4.7&#10;/home/bj-s2-w1631/Git/other/spring-boot-base" />
+    <property name="file.gist.reindex.count" value="129234" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="find.popup.splitter" value="0.5268817" />
+    <property name="go.last.update.timestamp" value="1540969902580" />
+    <property name="go.libraries.notification.had.been.shown" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last.imported.location" value="$USER_HOME$/Git/incubator-dubbo-samples" />
+    <property name="last.used.gradle.home" value="$USER_HOME$/Software/gradle-2.10" />
+    <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
+    <property name="project.wizard.group" value="org.jetbrains.plugins.gradle.service.project.wizard.GradleModuleBuilder" />
+    <property name="project.wizard.template" value="JavaFX Application" />
+    <property name="search.everywhere.max.popup.width" value="620" />
+    <property name="selected.color.option.type" value="JAVA_COMMA" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.6972133" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="renameParameterInHierarchy" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_METHOD" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="INTRODUCE_PARAMETER_REPLACE_FIELDS_WITH_GETTERS" value="1" />
+    <option name="TURN_REFS_TO_SUPER_PREVIEW_USAGES" value="true" />
+    <option name="PUSH_DOWN_PREVIEW_USAGES" value="true" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
+    <option name="RENAME_INHERITORS" value="false" />
+    <option name="RENAME_PARAMETER_IN_HIERARCHY" value="false" />
+    <option name="RENAME_VARIABLES" value="false" />
+    <option name="RENAME_TESTS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://10.128.46.28/rss/O2M1114120001/04_软件实现/branch" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://10.128.46.28/rss/O2M1114120001/04_软件实现/branch" />
+        <option value="http://10.128.46.28/rss/O2M1114120001/04_软件实现/brunch" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
+  </component>
+</application>
