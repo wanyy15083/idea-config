@@ -1,7 +1,7 @@
 <application>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="WenQuanYi Micro Hei" />
+    <option name="FONT_FAMILY" value="YaHei Consolas Hybrid" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
