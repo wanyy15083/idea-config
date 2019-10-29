@@ -1,6 +1,5 @@
 <application>
   <component name="GradleSystemSettings">
-    <option name="serviceDirectoryPath" value="$USER_HOME$/Software/gradle-4.7" />
-    <option name="gradleVmOptions" value="-Xmx256m" />
+    <option name="serviceDirectoryPath" value="$USER_HOME$/Software/gradle-2.10" />
   </component>
 </application>
