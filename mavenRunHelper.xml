@@ -46,6 +46,9 @@
             <Goal>
               <option name="commandLine" value="clean package -Pstable -DskipTests=true" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="resource:resource" />
+            </Goal>
           </list>
         </option>
       </Goals>
