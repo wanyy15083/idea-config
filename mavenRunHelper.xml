@@ -49,6 +49,9 @@
             <Goal>
               <option name="commandLine" value="resource:resource" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="clean compile -DskipTests" />
+            </Goal>
           </list>
         </option>
       </Goals>
