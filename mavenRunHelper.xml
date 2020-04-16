@@ -55,6 +55,9 @@
             <Goal>
               <option name="commandLine" value="clean package -U -e" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="clean package -Pdev -DskipTests=true" />
+            </Goal>
           </list>
         </option>
       </Goals>
