@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="借款客服平台" type="PLAIN_TEXT" />
       <mapping ext="expect" type="PLAIN_TEXT" />
     </extensionMap>
