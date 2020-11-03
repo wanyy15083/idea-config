@@ -58,6 +58,9 @@
             <Goal>
               <option name="commandLine" value="clean deploy -DskipTests" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="clean package -Pprd -DskipTests=true" />
+            </Goal>
           </list>
         </option>
       </Goals>
