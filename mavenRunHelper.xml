@@ -61,6 +61,12 @@
             <Goal>
               <option name="commandLine" value="clean package -Pprd -DskipTests=true" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install -Pdev -DskipTests=true" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="clean install -Pprd -DskipTests=true" />
+            </Goal>
           </list>
         </option>
       </Goals>
