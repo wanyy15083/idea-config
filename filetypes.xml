@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="untitled" type="PLAIN_TEXT" />
       <mapping pattern="借款客服平台" type="PLAIN_TEXT" />
+      <mapping pattern="Find Results" type="PLAIN_TEXT" />
       <mapping pattern="PhoneNumberAlternateFormatsProto_7" type="PLAIN_TEXT" />
       <mapping ext="expect" type="PLAIN_TEXT" />
     </extensionMap>
